@@ -8,6 +8,7 @@ Very simple Python code that demonstrates how to use Python modules.
 
     .
     |-- LICENSE                               - MIT license file
+    |-- README.md                             - This README.md file
     |-- module                                - Python sub-module
     |   |-- __init__.py                       - marker for making directory a module
     |   `-- module_sub.py                     - contains fun_sub and fun_sub_2
