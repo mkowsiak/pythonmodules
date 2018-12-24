@@ -37,5 +37,5 @@ Very simple Python code that demonstrates how to use Python modules.
 
 # Known limitations
 
-Samples are realy basic, and illustrate how to import modules inside your code
+Samples are realy basic, and are here to illustrate how to import modules inside your code. Don't expect anything fancy here.
 
